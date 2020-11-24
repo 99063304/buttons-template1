@@ -1,7 +1,24 @@
 
 .nummer0, .nummer1 , .nummer2 ,.nummer3 {
-  height: 600px;
-  width: 600px;
+  height: 650px;
+  width: 650px;
   display: inline-block;
   border: 5px solid black;
+  
 }
+/* .nummer0 img, .nummer1 img, .nummer2 img,.nummer3 img{
+  position: relative;
+  top: 450px;
+  left: 470px;
+
+
+}
+.nummer0 img:nth-last-of-type(2), .nummer1 img:nth-last-of-type(2), .nummer2 img:nth-last-of-type(2), .nummer3 img:nth-last-of-type(2){
+  position: absolute;
+  top: 50px;
+  left: 0px;
+} */
+
+/* #button1, #button2, #button3{
+float: left;
+} */
