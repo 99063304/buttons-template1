@@ -3,12 +3,13 @@ var button2 = document.getElementById('button2');
 var button3 = document.getElementById('button3');
 var button0 = document.getElementById('button0');
 var img0 = document.getElementById('img0');
-var som = 0;
+
 
 button1.addEventListener('click', button1f);
 button1.addEventListener('click', button1f);
 button2.addEventListener('click', button2f);
 button3.addEventListener('click', button3f);
+button1.innerHTML = (som);
 
 
 function som1() {
@@ -20,7 +21,7 @@ function button1f() {
   img0k.src = 'images/1.jpg';
   som++;
   som = document.getElementById();
-
+  button1.innerHTML = (som);
 
 
   console.log('button1f');
