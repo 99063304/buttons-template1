@@ -1,0 +1,7 @@
+
+.nummer0, .nummer1 , .nummer2 ,.nummer3 {
+  height: 600px;
+  width: 600px;
+  display: inline-block;
+  border: 5px solid black;
+}
