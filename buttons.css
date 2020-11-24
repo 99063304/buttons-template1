@@ -4,9 +4,9 @@
   width: 650px;
   display: inline-block;
   border: 5px solid black;
-  
+
 }
-/* .nummer0 img, .nummer1 img, .nummer2 img,.nummer3 img{
+.nummer0 img, .nummer1 img, .nummer2 img,.nummer3 img{
   position: relative;
   top: 450px;
   left: 470px;
@@ -17,8 +17,8 @@
   position: absolute;
   top: 50px;
   left: 0px;
-} */
+} 
 
-/* #button1, #button2, #button3{
+#button1, #button2, #button3{
 float: left;
-} */
+}
