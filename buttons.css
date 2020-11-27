@@ -1,24 +1,24 @@
 
-.nummer0, .nummer1 , .nummer2 ,.nummer3 {
+.nummer0 {
   height: 650px;
   width: 650px;
   display: inline-block;
   border: 5px solid black;
   position: relative;
 }
-.nummer0 img, .nummer1 img, .nummer2 img,.nummer3 img{
+.nummer0 img{
   position: relative;
   top: 450px;
   left: 470px;
 
 
 }
-.nummer0 img:nth-last-of-type(2), .nummer1 img:nth-last-of-type(2), .nummer2 img:nth-last-of-type(2), .nummer3 img:nth-last-of-type(2){
+.nummer0 img:nth-last-of-type(2){
   position: absolute;
   top: 50px;
   left: 0px;
 }
 
-#button1, #button2, #button3, #button4, #button5, #button6 , #button7, #button8, #button9, #button10, #button11, #button12{
+#button1, #button2, #button3{
 float: left;
 }
