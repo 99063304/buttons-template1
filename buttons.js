@@ -42,11 +42,3 @@ function button3f() {
 
   console.log('button3f');
 }
-function button4f() {
-  img1.src = 'images/bg1.jpg';
-  img1k.src = 'images/1.jpg';
-  sombutton4++;
-  button4.innerHTML = sombutton4;
-
-
-}
